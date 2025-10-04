@@ -12,7 +12,7 @@
 
 ## submitter
 
-- mel0dy
+- Jiangjie, Lishudong at Guangzhou University
 
 ## VERSION(S)
 
